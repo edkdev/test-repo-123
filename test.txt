@@ -1,0 +1,6 @@
+This is a test file.
+We are testing the write tool.
+This is another inserted line.
+We're making sure not to overwrite existing content.
+We're demonstrating the ability to insert content at a specific point.
+The write tool can also add content to existing files.
